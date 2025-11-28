@@ -1,0 +1,2 @@
+# 50users
+load test
